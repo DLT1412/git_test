@@ -116,3 +116,4 @@ sh ${ROOT_DATADIR}/load2DB.sh ${Ymd}
 echo "END Parser Log ConsumeItem at $(date +"%Y-%m-%d %H:%M:%S")"
 echo "END Parser Log ConsumeItem at $(date +"%Y-%m-%d %H:%M:%S")" >> ${PARSER_LOGFILE}
 
+DLT
