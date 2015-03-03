@@ -118,3 +118,4 @@ echo "END Parser Log ConsumeItem at $(date +"%Y-%m-%d %H:%M:%S")" >> ${PARSER_LO
 
 DLT1
 DLT2
+DLT3
